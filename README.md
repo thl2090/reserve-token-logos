@@ -8,6 +8,7 @@ Public-facing logo assets for Reserve DTF tokens. Each logo has an SVG (scalable
 - photon (Photonics)
 - power (Power Generation)
 - robots (Robotics)
+- mag7 (Reserve Magnificent 7 DTF)
 
 ## Files per logo
 - `<name>.svg`
